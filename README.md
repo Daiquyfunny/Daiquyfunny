@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daiquyfunny
-- 👀 I’m interested in HTML JS
+- 👀 I’m interested in nothing lol xd
 - 🌱 I’m currently learning school
 
 <!---
