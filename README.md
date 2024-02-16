@@ -1,4 +1,4 @@
-I usually program nerdy stuff.
+I usually program stuff.
 
 <!---
 Daiquyfunny/Daiquyfunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
